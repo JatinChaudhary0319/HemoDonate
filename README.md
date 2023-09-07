@@ -40,7 +40,8 @@ Blood Resource Management Solution is a php based web project with both admin an
 <h3> User Panel Images </h3>
 <br><b>1. Home Page 
    <br>
-   ![BRMS-home-php](https://github.com/JatinChaudhary0319/Web-Projects/assets/137517499/dc7ff378-a7ad-47a3-8872-371a5b12e9cc)
+     ![BRMS-home-php](https://github.com/JatinChaudhary0319/Web-Projects/assets/137517499/070587d6-71e3-4f71-84c4-c721ccf7abe3.png)
+
    <br>
    <br>
    2. About Us Page
