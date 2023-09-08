@@ -8,7 +8,7 @@ Blood Resource Management Solution is a php based web project with both admin an
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-3. Download project from github
+3. Download project from github.
      
 4. Extract files in C:\xampp\htdocs.
 
