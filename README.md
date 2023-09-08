@@ -41,13 +41,12 @@ Blood Resource Management Solution is a php based web project with both admin an
 <br><b>1. Home Page 
    <br>
    ![BRMS-home-php](https://github.com/JatinChaudhary0319/Web-Projects/assets/137517499/1b0d1242-8518-42e7-bbb9-baf322f243b9)
-
-
-
+![about](https://github.com/JatinChaudhary0319/Web-Projects/assets/137517499/5a1266d9-e417-4dc0-87a9-c702cef3e5bd)
    <br>
    <br>
    2. About Us Page
    <br>
+   ![about](https://github.com/JatinChaudhary0319/Web-Projects/assets/137517499/5a1266d9-e417-4dc0-87a9-c702cef3e5bd)
    <br>
    3. Why Donate Blood Page
    <br>
